@@ -38,7 +38,7 @@ DevOps divisualisasikan sebagai proses loop tak terbatas yang terdiri dari :
   - Github : adalah tools yang berupa _platform version control_ untuk membantu __*DevOps Engineer*__ membuat dan menyimpan _file_ berwujud source code.
   - BitBucket
 - __CI/CD Pipeline__: untuk proses automation build, test, release dan deploy. _continuous integration_ adalah salah satu praktik paling penting dari DevOps. pada tahap ini, _developer_ akan mengumpuilkan dan menyatukan kode, kemudian menjalankan pengujian program secara cepat dan otomatis.
-  - Jenkins : Nah, Jenkins adalah _tools continuous integration_ andalan untuk para _DevOps Engineer_.
+  - Jenkins : Nah, Jenkins adalah _tools continuous integration_ andalan untuk para _DevOps Engineer_. Jenkins sendiri memiliki kelebihan sebagai berikut : Mudah untuk menangkap bug sejak dini, proses pengujian otomatis, integrasi berkelanjutan.
   - GitLab CI
   - GitHub Actions
   - BitBucket Pipeline
