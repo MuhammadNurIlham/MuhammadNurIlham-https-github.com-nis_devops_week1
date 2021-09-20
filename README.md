@@ -4,7 +4,7 @@
 DevOps adalah gabungan dari Development dan Operations. Kombinasi tersebut dirancang agar dapat meningkatkan kemampuan perusahaan untuk proses development hingga rilis produk ke public. Di bawah model DevOps ini, tim developer dan IT operations akan bekerja bersama di seluruh tahapan __*software development life cycle*__ untuk menghasilkan produk digital yang berkualitas secara efektif dan efisien.
 ## Flow DevOps dalam sebuah perusahaan dari awal sampai akhir
 DevOps divisualisasikan sebagai proses loop tak terbatas yang terdiri dari :
-- __Plan__ : Dalam proses ini melibatkan perencanaan untuk seluruh alur kerja yang diburuhkan sebelum tim pengembang mulai menulis kode. Dalam tahap ini, manajer produk dan manajer proyek akan memainkan peran penting.
+- __Plan__ : Dalam proses ini melibatkan perencanaan untuk seluruh alur kerja yang dibutuhkan sebelum tim pengembang mulai menulis kode. Dalam tahap ini, manajer produk dan manajer proyek akan memainkan peran penting.
 - __Code__ : Setelah rencana dibuat, tim developer dapat mulai menulis kode yang dibutuhkan untuk mengembangkan produk.
 - __Build__ : Code yang dibuat untuk mengotomasi aplikasi untuk melakukan proses Build sebelum dapat digunakan, tergantung bahasa pemrograman yang akan di build. Setelah tim developer selesai menulis kode yang dibutuhkan, mereka akan memasukkan kode tersebut ke dalam shared code repository.
 - __Test__ : selanjutnya adalah melakukan pengujian. jika ada masalah yang ditemukan pada tahap ini, maka masalah tersebut akan dikirim kembali ke tim developer untuk diselesaikan.
