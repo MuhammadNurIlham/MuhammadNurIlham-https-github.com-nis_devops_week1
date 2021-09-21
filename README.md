@@ -2,6 +2,9 @@
 
 ## DevOps Concept
 DevOps adalah gabungan dari Development dan Operations. Kombinasi tersebut dirancang agar dapat meningkatkan kemampuan perusahaan untuk proses development hingga rilis produk ke public. Di bawah model DevOps ini, tim developer dan IT operations akan bekerja bersama di seluruh tahapan __*software development life cycle*__ untuk menghasilkan produk digital yang berkualitas secara efektif dan efisien.
+
+## Culture DevOps dalam sebuah perusahaan SWK Group
+__SWK Group__ merupakan perusahaan Start-Up yang bergerak dibidang E-Sport, mulai dari membuat atau mengadakan event tournamen game E-Sport, Mendirikan team E-Sport, sampai jenjang karir dalam dunia E-Sport. dari latar belakang perusahaan tersebut tentunya DevOps sangat berperan penting dalam sebuah pengembangan tujuan ataupun produk bagi perusahaan ini
 ## Flow DevOps dalam sebuah perusahaan dari awal sampai akhir
 ![Flow DevOps](https://raw.githubusercontent.com/andreybleme/andreybleme.github.io/master/assets/img/devops-principles.png)
 
